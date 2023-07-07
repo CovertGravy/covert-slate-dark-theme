@@ -542,7 +542,7 @@
     {
       "scope": "entity.name.type",
       "settings": {
-        "foreground": "#566981",
+        "foreground": "#5da4a4",
         "fontStyle": ""
       }
     },
