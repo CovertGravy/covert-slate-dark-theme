@@ -1,0 +1,38 @@
+{
+  "name": "covert-slate-dark-theme",
+  "displayName": "Covert Slate Dark Theme",
+  "description": "My customized version of slate-contrast theme from rainglow.",
+  "version": "1.0.0",
+  "publisher": "ashish-shaji",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/covertgravy/covert-slate-dark-theme"
+  },
+  "icon": "./images/icon.png",
+  "keywords": [
+    "theme",
+    "dark",
+    "contrast",
+    "covert",
+    "slate",
+    "covert slate",
+    "dark theme",
+    "minimal",
+    "minimal theme"
+  ],
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Covert Slate Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/covert slate-color-theme.json"
+      }
+    ]
+  }
+}
