@@ -549,7 +549,7 @@
     {
       "scope": "meta.object-literal.key",
       "settings": {
-        "foreground": "#9eb2d9",
+        "foreground": "#5d78a4",
         "fontStyle": ""
       }
     },

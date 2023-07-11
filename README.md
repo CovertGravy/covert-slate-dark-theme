@@ -5,5 +5,4 @@ My customized version of slate-contrast theme from rainglow.
 ![Screenshot](images/covert-slate-screenshot.png)
 
 ## Author
-Ashish Shaji
-![logo](images/icon.png)
+[Ashish Shaji](https://github.com/covertgravy)
