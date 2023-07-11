@@ -1,6 +1,6 @@
 {
-	"name": "covert slate",
-	"colors": {
+  "name": "covert slate",
+  "colors": {
     "foreground": "#bdbdc5",
     "editor.background": "#19191f",
     "editorCursor.foreground": "#f8f8f0",
@@ -115,7 +115,7 @@
     "editorSuggestWidget.foreground": "#bdbdc5",
     "editorSuggestWidget.selectedBackground": "#474757"
   },
-	"tokenColors": [
+  "tokenColors": [
     {
       "settings": {
         "foreground": "#bdbdc5"
@@ -580,6 +580,34 @@
         "foreground": "#566981",
         "fontStyle": ""
       }
-    }
+    },
+    {
+      "scope": "variable.other",
+      "settings": {
+        "foreground": "#8996ab",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": "punctuation",
+      "settings": {
+        "foreground": "#8996ab",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": "variable.object.property",
+      "settings": {
+        "foreground": "#5d78a4",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": "variable.language.this",
+      "settings": {
+        "foreground": "#5d78a4",
+        "fontStyle": ""
+      }
+    },
   ],
 }
